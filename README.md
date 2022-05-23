@@ -4,8 +4,6 @@
 
 ### Command Line RPG Duel Game
 
-[Usage Video](https://youtu.be/5GRvfMNTn4g)
-
 ### In this lesson: 
 - Codebase refactoring to remove areas of duplication. 
 
